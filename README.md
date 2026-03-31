@@ -29,7 +29,7 @@ Key variables used:
 project/
 │
 ├── data_cleaning.py          # Clean raw climate data and save processed CSV
-├── model_pipeline.py         # Feature engineering, modeling, and evaluation
+├── heatwave_model.py         # Feature engineering, modeling, and evaluation
 │
 ├── climate_data.csv          # Raw dataset
 ├── cleaned_climate_data.csv  # Cleaned dataset
